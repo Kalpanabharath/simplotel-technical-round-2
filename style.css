@@ -14,10 +14,9 @@ body{
 .try {
   width: 0; 
   height: 0; 
-  transform: rotate(90deg);
-  border-left: 200px solid transparent;
-  border-right: 200px solid transparent;
-  border-top: 200px solid #f00;
+  border-top: 200px solid transparent;
+  border-bottom: 200px solid transparent;
+  border-right: 200px solid #f00;
     
 }
 
