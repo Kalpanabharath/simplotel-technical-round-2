@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.try {
+  width: 0; 
+  height: 0; 
+  transform: rotate(90deg);
+  border-left: 200px solid transparent;
+  border-right: 200px solid transparent;
+  border-top: 200px solid #f00;
+    
+}
+
+  
+ 
